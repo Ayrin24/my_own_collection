@@ -158,3 +158,16 @@ GPL-3.0-or-later
 ## Автор
 
 Ayrin24
+
+
+Скриншоты выполнения работы:
+
+<img width="1209" height="89" alt="5337154154650083289" src="https://github.com/user-attachments/assets/a114d913-6f5f-45a9-b30a-3d608f03d445" />
+
+<img width="1017" height="355" alt="5337154154650083374" src="https://github.com/user-attachments/assets/b4b2e740-6efe-457c-be55-7c815d964f90" />
+
+<img width="1041" height="162" alt="5337154154650083420" src="https://github.com/user-attachments/assets/41f3d1f7-b7d4-4b79-b0e5-4a5232868e4e" />
+
+<img width="1023" height="405" alt="5337154154650083421" src="https://github.com/user-attachments/assets/8c057c16-31b4-430a-ae34-503b6f1123fa" />
+
+
