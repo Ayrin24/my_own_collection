@@ -1,0 +1,6 @@
+#SPDX-License-Identifier: MIT-0
+---
+my_own_module_path: "/tmp/my_own_module_output.txt"
+my_own_module_content: "Hello from role!"
+
+# defaults file for my_own_role
